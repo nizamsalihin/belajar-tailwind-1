@@ -9,6 +9,9 @@ module.exports = {
       colors: {
         wpu: '#bada55',
         kopi: '#c0ffee',
+      },
+      minWidth: {
+        '1/2': '50%'
       }
       
     },
