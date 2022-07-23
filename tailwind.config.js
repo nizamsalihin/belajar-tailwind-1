@@ -2,6 +2,7 @@
 module.exports = {
   content: ["./public/**/*.{html,js}"],
   theme: {
+    
     extend: {
       fontFamily: {
         inter : ['Inter']
@@ -12,7 +13,8 @@ module.exports = {
       },
       minWidth: {
         '1/2': '50%'
-      }
+      },
+      
       
     },
   },
